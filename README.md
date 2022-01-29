@@ -1,2 +1,2 @@
 # AppD
-![pragati ss](https://user-images.githubusercontent.com/96723315/151562237-2bf7e00f-7dbf-4b3d-af1b-e4855578a542.png)
+![app ss](https://user-images.githubusercontent.com/96723315/151649103-f62898b2-627f-4121-9863-9916433a8d76.png)
